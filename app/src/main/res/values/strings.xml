@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SOS</string>
+    <string name="title_activity_maps">SOS Emergency</string>
+    <string name="alert_dialog_title">SOS Emergency</string>
+    <string name="icon_content_description">App Icon</string>
+    <string name="txtPhone">Enter Phone Number :</string>
+    <string name="edtPhoneHint">987654321</string>
+    <string name="autofillHints">Enter Phone Number</string>
+</resources>
